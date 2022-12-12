@@ -1,15 +1,15 @@
 #include <unistd.h>
 
 /**
- * main - prints exactly and that piece of art is useful
+ * main - Entry point
  *
  * Description: The last project on hello world
  *
- * Return: Always 1 (success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
 {
-	write(1, "and that piece of art is useful\" - Dora Korpa, 2015-10-19\n", 59);
+	write(1, "and that piece of art is useful\" - Dora Korper, 2015-10-19\n", 59);
 	return (1);
 }
