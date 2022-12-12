@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  *
- * Description: The last project on hello world
+ * Description: The las task on hello world
  *
- * Return: Always 0 (success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
