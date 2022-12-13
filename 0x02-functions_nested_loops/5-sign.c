@@ -1,4 +1,4 @@
-#include "Nmain.h"
+#include "main.h"
 
 /**
  * print_sign - Prints sidns of number.
