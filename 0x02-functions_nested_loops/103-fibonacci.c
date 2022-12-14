@@ -27,7 +27,7 @@ int main(void)
 
 	}
 
-	printf("%.of\n", tot_sum);
+	printf("%.0f\n", tot_sum);
 
 	return (0);
 
