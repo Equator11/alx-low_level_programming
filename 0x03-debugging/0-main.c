@@ -1,18 +1,19 @@
 #include "main.h"
 /**
  * main - main
- * Return: Always 0
+ * Return: 0
  */
 
 int main(void)
 {
-	int i;
+int i;
+i = 0;
 
-	i = 0;
+
+positve_or_negative(i);
 
 
-	positve_or_negative(i);
+return (0);
 
-	return (0);
 
 }
