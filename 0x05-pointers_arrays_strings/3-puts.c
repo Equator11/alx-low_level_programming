@@ -7,7 +7,7 @@
  * Return: Always 0
  */
 
-void _putchar(char *str)
+void _puts(char *str)
 {
 	int i = 0;
 
